@@ -5,7 +5,7 @@ O objetivo deste repositório é fornecer um ponto de partida inicial para a cri
 ### Recursos do Cypress
 - [Documentação Oficial do Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress)
 
-- ![Cypress Version](https://img.shields.io/badge/cypress-12.8.1-brightgreen)
+- ![Cypress Version](https://img.shields.io/badge/cypress-13.14.0-brightgreen)
 
 
 ### Instalação:
